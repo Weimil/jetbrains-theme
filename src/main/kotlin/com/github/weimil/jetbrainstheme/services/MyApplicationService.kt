@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.weimil.jetbrainstheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.weimil.jetbrainstheme.MyBundle
 
 class MyApplicationService {
 
